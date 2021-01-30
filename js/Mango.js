@@ -28,6 +28,7 @@ class Mango{
 		imageMode(CENTER);
 		ellipseMode(CENTER);
 		image(this.image, 0,0,this.r*2, this.r*2)
+		pop();
 		
  }
 }
