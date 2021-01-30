@@ -1,3 +1,3 @@
 class Stone extends Mango {
-    this.image("stone.png");
+    this.image=loadImage("images/stone.png")
 }
