@@ -51,7 +51,7 @@ function draw() {
   mango1.display();
   mango.display();
 
-  //stone.display();
+  stone.display();
 
   groundObject.display();
 }
